@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsViewer", "AccountsViewer\AccountsViewer.csproj", "{EEA52E1E-9AEF-42FA-9357-2D95A97BB780}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountsCodingTest", "..\..\accounts-coding-test-backend-master\src\AccountsCodingTest.csproj", "{CDD759CC-F563-4EE1-97B7-DA7489BEBFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA52E1E-9AEF-42FA-9357-2D95A97BB780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA52E1E-9AEF-42FA-9357-2D95A97BB780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA52E1E-9AEF-42FA-9357-2D95A97BB780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA52E1E-9AEF-42FA-9357-2D95A97BB780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD759CC-F563-4EE1-97B7-DA7489BEBFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD759CC-F563-4EE1-97B7-DA7489BEBFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD759CC-F563-4EE1-97B7-DA7489BEBFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD759CC-F563-4EE1-97B7-DA7489BEBFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DF8A69-0C94-4276-A3FB-F16BD6E99DC0}
+	EndGlobalSection
+EndGlobal
